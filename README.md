@@ -22,7 +22,7 @@
 
 ## Quick Facts
 
-* 🏆 **Competitive Programming:** I love algorithmic challenges. I have solved **200+ problems on LeetCode** (Rating: 1640+) and actively compete on **CodeChef** (2⭐, Max Rating: 1415).
+* 🏆 **Competitive Programming:** I love algorithmic challenges. I have solved **300+ problems on LeetCode** (Rating: 1640+) and actively compete on **CodeChef** (2⭐, Max Rating: 1415).
 * 🌱 **Currently Exploring:** Expanding my technical horizon by diving deep into **Generative AI** and **Microservices**.
 * 💻 **Tech Focus:** Backend architectures, system design, and database performance optimization.
 * 🎌 **Beyond Coding:** Powered by caffeine, logic, and a heavy dose of anime (always down to discuss *One Piece*!).
